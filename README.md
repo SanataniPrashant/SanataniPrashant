@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prashant Pandey
 - 👀 I’m interested in Web Dev. Technology
-- 🌱 I’m currently learning Java Sript
+- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on Front-end Development
 - 📫 Reach me through my e-mail -- prashantpandey76867@gmail.com or Contact no. -- +91 9752617634
 - 😄 Pronouns: ...
